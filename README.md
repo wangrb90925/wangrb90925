@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi there! I'm a seasoned developer with over 15 years of experience in:
+I'm a seasoned developer with over 15 years of experience in:
 
 - 📱 **Native Mobile Apps** – iOS (Swift, Objective-C), Android (Java, Kotlin)
 - 🌐 **Hybrid Mobile Apps** – React Native, Flutter
