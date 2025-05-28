@@ -18,7 +18,7 @@ I’ve led and contributed to **hundreds of successful projects**, including:
 - 📽 **Roughtake**
 - 🏢 **Sierra International**
 
-As a **CTO of Cloud Ten Labs** (California, USA), I’ve overseen diverse projects from mobile apps to blockchain platforms for clients worldwide.
+As **CTO of Cloud Ten Labs** (California, USA), I’ve overseen diverse projects from mobile apps to blockchain platforms for clients worldwide.
 
 ---
 
